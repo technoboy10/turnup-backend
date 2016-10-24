@@ -1,0 +1,26 @@
+{
+  "name": "turnup-backend",
+  "version": "1.0.0",
+  "description": "Backend for turnup",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/csci3308-12/turnup-backend.git"
+  },
+  "author": "Connor Hudson",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/csci3308-12/turnup-backend/issues"
+  },
+  "homepage": "https://github.com/csci3308-12/turnup-backend#readme",
+  "devDependencies": {
+    "eslint": "^3.8.1"
+  },
+  "dependencies": {
+    "mysql": "^2.11.1",
+    "restify": "^4.1.1"
+  }
+}
