@@ -18,7 +18,10 @@
   "homepage": "https://github.com/csci3308-12/turnup-backend#readme",
   "devDependencies": {
     "chai": "^3.5.0",
-    "eslint": "^3.8.1"
+    "eslint": "^3.8.1",
+    "mocha": "^3.1.2",
+    "should": "^11.1.1",
+    "supertest": "^2.0.1"
   },
   "dependencies": {
     "mysql": "^2.11.1",
