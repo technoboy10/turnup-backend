@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/csci3308-12/turnup-backend#readme",
   "devDependencies": {
+    "chai": "^3.5.0",
     "eslint": "^3.8.1"
   },
   "dependencies": {
