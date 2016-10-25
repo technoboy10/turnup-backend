@@ -5,4 +5,4 @@ test:
 	@make lint
 
 lint:
-	$(ESLINT) . --ext .js,.json
+	$(ESLINT) . --ext .js
