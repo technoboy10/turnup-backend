@@ -14,4 +14,15 @@ describe('Unit test debug', function (){
             done();
         });
     });
+
+    /*it('should unsuccessfully grab stuff from the database', function (done){
+        server
+        .get('/debug/db/apple')
+        .expect('Content-Type', /json/)
+        .expect(200)
+        .end(function (err, res){
+            if (err) return done(err);
+            done();
+        });
+    });*/
 });

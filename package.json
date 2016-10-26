@@ -24,6 +24,7 @@
     "supertest": "^2.0.1"
   },
   "dependencies": {
+    "knex": "^0.12.6",
     "mysql": "^2.11.1",
     "restify": "^4.1.1",
     "restify-router": "^0.2.1"
