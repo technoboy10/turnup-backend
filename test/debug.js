@@ -15,7 +15,7 @@ describe('Unit test debug', function (){
         });
     });
 
-    it('should successfully grab stuff from the database', function (done){
+    it('should unsuccessfully grab stuff from the database', function (done){
         server
         .get('/debug/db/apple')
         .expect('Content-Type', /json/)
