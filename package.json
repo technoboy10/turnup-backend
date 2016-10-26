@@ -18,10 +18,14 @@
   "homepage": "https://github.com/csci3308-12/turnup-backend#readme",
   "devDependencies": {
     "chai": "^3.5.0",
-    "eslint": "^3.8.1"
+    "eslint": "^3.8.1",
+    "eslint-plugin-mocha": "^4.7.0",
+    "mocha": "^3.1.2",
+    "supertest": "^2.0.1"
   },
   "dependencies": {
     "mysql": "^2.11.1",
-    "restify": "^4.1.1"
+    "restify": "^4.1.1",
+    "restify-router": "^0.2.1"
   }
 }
